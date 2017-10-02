@@ -1,0 +1,7 @@
+C:\Users\kubek\Desktop\BioRobotics\DarioConsoleRemake\SensorToConsole\SensorToConsole\bin\Debug\SensorToConsole.exe.config
+C:\Users\kubek\Desktop\BioRobotics\DarioConsoleRemake\SensorToConsole\SensorToConsole\bin\Debug\SensorToConsole.exe
+C:\Users\kubek\Desktop\BioRobotics\DarioConsoleRemake\SensorToConsole\SensorToConsole\bin\Debug\SensorToConsole.pdb
+C:\Users\kubek\Desktop\BioRobotics\DarioConsoleRemake\SensorToConsole\SensorToConsole\obj\Debug\SensorToConsole.csprojResolveAssemblyReference.cache
+C:\Users\kubek\Desktop\BioRobotics\DarioConsoleRemake\SensorToConsole\SensorToConsole\obj\Debug\SensorToConsole.exe
+C:\Users\kubek\Desktop\BioRobotics\DarioConsoleRemake\SensorToConsole\SensorToConsole\obj\Debug\SensorToConsole.pdb
+C:\Users\kubek\Desktop\BioRobotics\DarioConsoleRemake\SensorToConsole\SensorToConsole\obj\Debug\SensorToConsole.csproj.CoreCompileInputs.cache
